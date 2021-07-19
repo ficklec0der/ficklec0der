@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ficklec0der
-- 👀 I’m interested in Web Dev :D
+- 👋 Hi, I’m Mohd Haziq
+- 👀 I’m interested in Front end Dev and Designing.
 - 🌱 I’m currently learning JavaScript!
 - 💞️ I’m looking to collaborate in any small projects :)
 - 📫 How to reach me: 🐦 - ficklec0der
